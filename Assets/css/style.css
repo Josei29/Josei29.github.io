@@ -164,4 +164,16 @@ img {
         width: 200px;
         height: 200px;
     }
+
+    .L_Title {
+        font-size: 15px;
+    }
+
+    .L_Favorite {
+        font-size: 10px;
+    }
+
+    #Pizza, #Got, #Star {
+        height: 250px;
+    }
 }
