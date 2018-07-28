@@ -55,7 +55,9 @@ nav {
     height: 220px;
     margin-left: 20px;
     min-height: 200px;
+    min-width: 200px;
     float: left !important;
+    margin: 0 auto;
 }
 
 .L_Title {
@@ -115,7 +117,7 @@ nav {
 .badge-danger {
     margin: 0 auto;
     width: 45%;
-    margin-left: 19%;
+    height: 15px;
 }
 
 img {
@@ -125,7 +127,7 @@ img {
 }
 
 .PicMargin {
-    margin-left: 20px;
+    margin: 0 auto;
 }
 
 .Footer {
@@ -139,4 +141,27 @@ img {
     padding: 4px;
     height: 35px;
     border-top: 2px solid #d7d2cc;
+    margin: 0 auto;
+}
+
+#Bio {
+    margin: 0 auto;
+    margin-top: 5px;
+}
+
+.d-none {
+    display: block !important;
+}
+
+.portContent {
+    text-align: center;
+    margin: 0 auto;
+    padding-bottom: 50px;
+}
+
+@media only screen and (max-width: 560px) {
+    .PicMargin {
+        width: 200px;
+        height: 200px;
+    }
 }
