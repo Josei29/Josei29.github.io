@@ -49,6 +49,9 @@ nav {
     background: linear-gradient(to right, #304352, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
+.navbar {
+    height: 50px;
+}
 
 #P_Me {
     width: 200px;
@@ -74,20 +77,8 @@ nav {
     margin: 0 auto;
 }
 
-#Pizza {
-    width: 300px;
-    height: 350px;
-    opacity: 0.75;
-}
-
-#Got {
-    width: 300px;
-    height: 350px;
-    opacity: 0.75;
-}
-
-#Star {
-    width: 300px;
+#Pizza, #Got, #Star {
+    width: 600px;
     height: 350px;
     opacity: 0.75;
 }
@@ -175,5 +166,6 @@ img {
 
     #Pizza, #Got, #Star {
         height: 250px;
+        width: 200px;
     }
 }
