@@ -49,10 +49,6 @@ nav {
     background: linear-gradient(to right, #304352, #d7d2cc, #304352); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
-.navbar {
-    height: 50px;
-}
-
 #P_Me {
     width: 200px;
     height: 220px;
