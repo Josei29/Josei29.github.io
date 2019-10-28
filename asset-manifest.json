@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Josei29/Josei29.github.io/static/css/main.d8e09b8f.chunk.css",
+    "main.js": "/Josei29/Josei29.github.io/static/js/main.9675600b.chunk.js",
+    "main.js.map": "/Josei29/Josei29.github.io/static/js/main.9675600b.chunk.js.map",
+    "runtime-main.js": "/Josei29/Josei29.github.io/static/js/runtime-main.74d44cb8.js",
+    "runtime-main.js.map": "/Josei29/Josei29.github.io/static/js/runtime-main.74d44cb8.js.map",
+    "static/js/2.598d69a0.chunk.js": "/Josei29/Josei29.github.io/static/js/2.598d69a0.chunk.js",
+    "static/js/2.598d69a0.chunk.js.map": "/Josei29/Josei29.github.io/static/js/2.598d69a0.chunk.js.map",
+    "index.html": "/Josei29/Josei29.github.io/index.html",
+    "precache-manifest.34da3763c90c3decaa89c5fc1ae7107b.js": "/Josei29/Josei29.github.io/precache-manifest.34da3763c90c3decaa89c5fc1ae7107b.js",
+    "service-worker.js": "/Josei29/Josei29.github.io/service-worker.js",
+    "static/css/main.d8e09b8f.chunk.css.map": "/Josei29/Josei29.github.io/static/css/main.d8e09b8f.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74d44cb8.js",
+    "static/js/2.598d69a0.chunk.js",
+    "static/css/main.d8e09b8f.chunk.css",
+    "static/js/main.9675600b.chunk.js"
+  ]
+}
